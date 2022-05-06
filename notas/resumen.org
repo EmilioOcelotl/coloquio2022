@@ -1,0 +1,68 @@
+
+* Resumen ponencia
+
+** Temas generales
+
+Estudios del software y programación
+Investigación artística
+Composición audiovisual
+Tecnología Musical 
+
+** Referencias prinicipales
+
+Speaking code 
+
+** Hipótesis 
+
+Lenguajes de programación que se relacionan con la práctica artística, que la permean en lo técnico pero también en la reflexión sobre el contexto, procesos sociales, políticos y económicos.  
+
+** Título
+
+¿Será tiempo de cambiar el título?
+
+** Notas sueltas
+
+Aclaraciones iniciales: Es una investigación artística en la medida que se rescatan algunas discusiones de ciencias sociales y no de otro tipo de ciencias. 
+Dos casos de estudio: anti y three studies
+Punto de partida: la práctica artística con código
+Objetivo de la investigación: Software artístico y para generar arte como una instancia de conocimiento. 
+Interesante: las categorías de instituciones ( convocatorias, festivales, aplicaciones ) en las que las piezas han funcionado
+
+Importante: de Cox: To contest whether the term or category
+software art is applicable, or useful even, illustrates
+part of the process of how terms that combine art
+and technology enter the public realm, and become
+normalised by festivals, conferences, publications,
+PhD submissions, and so on.
+
+Insistencia en el espacio público 
+Publicar códigos e investigaciones - toques como
+work in progress 
+
+Definiciones
+
+Conceptos pivote 
+
+Qué aporta la interactividad como interpretación. ¿ Diferencias ? 
+
+Procesos y no necesariamente resultados 
+
+La presente investigación se enmarca en la relación que existe entre práctica artística y escritura de software.
+
+Parte de dos piezas audiovisuales como casos de estudio para encontrar las relaciones y contradicciones entre contexto y funcionalildad de los lenguajes de programación como tecnología y la práctica musical que posibilitan en el contexto del navegador y la web.  
+
+Estos casos quedann contextualizados con plataformas, librerías y extensiones colindantes que permiten observaar
+
+La relación entre conexto y funcionalidad en la práctica musical con 
+
+** Cuerpo
+
+La presente investigación es un bucle de investigación creación que estudia algunas prácticas performáticas, audiovisuales y experimentales con lenguajes de programación como instancias de conocimiento. De manera particular, señala un giro hacia las implicaciones de la interpretación audiovisual y la producción artística de obras para la web.
+
+A manera de agente externo, la pandemia de COVID-19 ha marcado la vuelta definitiva de este proyecto hacia el navegador. Las experiencias particulares hacen patente las consecuencias que esto ha tenido para la investigación y la práctica artística. En relación a las preocupaciones centrales de esta investigación, el encierro y las posibilidades de la interconexión por medio de la web trajeron de vuelta la discusión sobre la presencia y la colaboración/interpretación/composición.
+
+Este proyecto parte de motivaciones que expresan formas de practicar e investigar con y sobre tecnología. Algunas de las metodologías de trabajo que parten del hacer pero que desde nuestra perspectiva, se pueden extender al pensamiento y a la reflexión, están presentes en formas de trabajo como DIY o DIWO. Del giro y la problematización de estas herramientas en términos del trabajo en contextos colaborativos situados en latinoamérica
+
+El proyecto está vinculado por la realización tecnológica y práctica de piezas para el navegador que son objeto de la investigación. Las piezas son: anti y three.studies así como la reflexión en relación al contexto de herramientas y piezas del que forman parte. Estas piezas orbitan distintos lenguajes de programación y plataformas para la transformación de señales de audio y video y renderizacion de gráficos tridimensionales. El centro de esta orbitación es javascript.
+
+** Palabras clave 

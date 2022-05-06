@@ -1,0 +1,15 @@
+
+* Título
+
+Tres Estudios Abiertos. 
+
+* Palabras clave
+
+bucle, lenguaje, programación, audiovisual, web 
+
+* Resumen
+
+El presente trabajo es un bucle de investigación-creación que estudia prácticas performáticas, audiovisuales y experimentales con lenguajes de programación. De manera particular, señala un giro hacia las implicaciones de la interpretación audiovisual y la producción artística de obras para la web.                                                                                                                                                              
+Para esta investigación, las posibilidades de la distribución y de la cultura libre son centrales. Consideramos que estos tópicos se extienden hacia discusiones sobre la presencia, la colaboración y la interpretación. Este proyecto parte de motivaciones que expresan formas de practicar e investigar con y sobre lenguajes de programación como  tecnología.                                                                                               
+                                                                            
+El proyecto está acompañado de la realización práctica de piezas para el navegador que son objeto de la investigación y de la reflexión en relación al contexto de herramientas y piezas del que forman parte. Las piezas son: anti y three.studies. 

@@ -1,0 +1,121 @@
+%\documentclass[11pt,letterpaper,twocolumn]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% SIN TANTA TÉCNICA %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt,letterpaper, twocolumn, twoside, openright,
+headinclude,footinclude,BCOR5mm,
+numbers=noenddot,cleardoublepage=empty,
+tablecaptionabove]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\usepackage{hyperref}
+\usepackage[sort&compress]{natbib}
+\usepackage{setspace}
+%\usepackage{subfiles}
+%\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing]{classicthesis}
+\usepackage{arsclassica}
+
+\usepackage[letterpaper,
+            bindingoffset=0in]{geometry}
+
+\author{Emilio Ocelotl Reyes}
+\title{Dos Anti Estudios} 
+\begin{document}
+
+\maketitle
+
+\section*{Introducción}
+
+La escritura de este proyecto aborda un proceso de investigación-creación audiovisual en la web. El primer apartado describe los antecedentes del proyecto. En el segundo y tercer apartado es posible encontrar las descripciones de THREE.studies y anti, intercaladas con comentarios y reflexiones sobre proyectos y herramientas colindantes. Adicionalmente, mencionamos detalles sobre el proceso que no están presentes en las piezas y que delimitan los resultados escritos. Posteriormente planteamos la problematización sobre la escritura que persigue la investigación y que es consecuencia de los dos anteriores procesos. En las conclusiones se reúnen los resultados que aununcian las escrituras realizadas hasta el momento, los pendientes y el camino recorrido hasta el momento. 
+
+\section*{Antecedentes}
+
+Las motivaciones generales de esta investigación refieren al interés por la reflexión vertida en investigación generada a partir de un proceso práctico y performático con sonido. Este trayecto ha involucrado imagen: actualmente, la realización de este bucle de investigación-creación es audiovisual. 
+
+Este trabajo forma parte de una trilogía de investigación, junto con \emph{Objeto, Paisaje y Efecto} y \emph{Cuidado con la Brecha}. En este sentido, los estudios todavía-no-terminados-pero-abiertos forman parte de una trayectoria que problematiza la investigación sobre y con sonido e imagen. 
+
+La práctica de la programación al vuelo o \emph{live coding} y la programación convencional con fines no-performáticos es una influencia notable para esta investigación. Este proceso de escritura de programas que unas veces es performático y otras veces persigue la fijación el tiempo deriva en una propuesta que de fondo encuentra relaciones entre distintos tipos de escritura. 
+
+%% Imágenes o referencias a esto en la presentación. Me imagino algo tipo presentación anidada 
+
+Las premisas del software y la cultura libre han sido fundamentales para el planteamiento del proyecto. La escritura de módulos y puesta en marcha en un contexto comunitario de exploración creativa ha sido uno de los principales detonadores de las ideas que quedan presentes en las piezas y el resultado escrito de esta investigación. Como contrapeso, también aludimos a la reflexión sobre y con código, tanto en la escritura de piezas de software (ejemplo) como en la reflexión académica (otro ejemplo). % Referencia a Cox y Soon 
+
+Las investigaciones que habitan el estuario: Seis
+
+Finalmente, un antecedente inmediato para esta investigación fueron eventos y piezas que se realizaron en la web y que concluyeron en la escritura de y sobre Panorama junto con Marianne Teixido y Dorian Sotomayor, una propuesta de espacio inmersivo y libre para la realización de conciertos en el contexto del distanciamiento presencial. 
+
+%% Imagenes y referencias 
+
+\section*{Presencia y gesto}
+
+THREE.studies es un prototipo audiovisual para el navegador que involucra el trabajo a distancia y la transformación de tipos de datos como video, flujos audiovisuales, objetos tridimensionales y texto. Fue escrito en Javascript y hace uso de Three.js para la renderización de gráficos. 
+
+Desde el inicio el estudio estuvo pensado para el contexto de la copresencia digital. Inmerso en el contexto del trabajo con Panorama y sin la posibilidad de realizar ensayos presenciales, la pieza buscó soluciones al trabajo distanciado. Con la referencia a \emph{Cuidado con la Brecha}, el aspecto tecnológico de la peiza busco lidiar con la presencia distanciada, en este caso, tanto del operador de la electrónica como de la interpretación instrumental. El eje articulador entre la investigación presente y Cuidado con la Brecha fue el tránsito de realización de sistemas interactivos instalados en computadoras de placa reducida a la escritura de programas para el navegador. La premisa despliegue portabilidad que permite el despliegue de un sitio web con cero instalación. % Como se menciona en un texto de D. Ogborn y como coincide en los planteamientos de Olivia Jack ( tal vez buscar alguna referencia ) 
+
+La primera versión estuvo pensada como una partitura existente en el espacio tridimensional que pudiera dar cuenta de todos los procesos que sucedían durante la interpretación: la ejecución instrumental que enviaba señales de audio por medio de una conexión directa y que recibía por el mismo medio retroalimentación de la electrónica la operación de la electrónica que para esta versión, fue ejecutada con código al vuelo y que fue visible a partir de capas de ventanas transparentes en el escritorio que realizó la captura de video; y finalmente los resultados visuales que por una parte estaban previamente diseñados y que por el otro, respondían al audio de entrada. Si bien la pieza estuvo pensada para interpretarse en vivo, el contexto de la pandemia de COVID-19 no permitió que viera la luz bajo este formato. Como una pieza fija para el navegador, la pieza pudo participar en BEAST FEaST en 2021. Las pruebas fueron realizadas por medio de Sonobus y coordinadas por medio de una llamada de zoom con Iracema de Andrade como intérprete de cello eléctrico. 
+
+%% Reactivar la liga
+
+% Descripción técnica y comparación con algo o alusión a algunas tecnologías de las cuales supuestamente puedo ser especialista 
+
+La segunda versión surgió en el contexto de un programa de piezas audiovisuales realizado en línea y curado por Sofía Matus. Para esta versión fue posible ralizar algunas capturas presenciales que permitieron extender el continuo entre distanciamiento y presencia. Esto permitió desplazar parte de la imagen del formato de video cuadrado a una captura tridimensional. El control de la electrónica y de los eventos que sucedían en el espacio tridimensional fue una mezcla entre programación al vuelo con SuperCollider y la modificación de algunos parámetros gestuales como la posición de la cámara o el recorrido de una muestra de audio con un control de Nintendo Switch. (Referencia al uso de controles de wii de Roberto Morales, hablar tal vez ergonomía). Esta versión tampoco fue presentada en presencial y fue fijada en un video. Técnicamente fue necesario resolver la carga de los archivos de los objetos tridimensionales.  
+
+% Reactivar la liga 
+
+La tercera versión está en proceso y se presentará en modo presencial.  
+
+Futuro 
+
+Ejercicios pequeños como lo del control
+
+Pendientes generales 
+
+\section*{Ofusación como motivo}
+
+Anti es un manual y una pieza para el navegador. Este manual inicialmente estuvo pensado para explorar la ofuscación de audio y video. Adicionalmente, anti fue un motivo para desplazar el proyecto hacia la escritura y hacia la conformación de un ensayo interactivo para la web. 
+
+Contexto de la pieza, cercanías y lejanías. 
+
+Utiliza una librería para la detección de puntos de referencia faciales. Se diferencía de librerías para la detección de facial en la medida que no busca establecer diferencias entre rostros sino detectar de la manera más general posible, puntos que pueden indicar gestos. 
+
+La primera versión de anti utilizó objetos nativos de three.js en las posiciones de las lecturas de los puntos de referencia faciales.
+
+La segunda versión utilizó sprites para los puntos de referencia 
+
+Finalmente, la tercera versión aprovechó la triangulación de los vértices para construir meshes con texturas personalizadas. 
+
+Hydra
+
+Pendientes generales: 
+
+\section*{Si está escrito en Latex debe ser cierto}
+
+Formatos de presentación - Si está escrito en latex debe ser cierto. 
+
+\section*{Conclusiones} % Esto será parecido a conclusiones ? 
+
+De Panorama gamificación y planteamientos sobre el registro y la existencia de piezas en la web. 
+
+Queda pendiente un tercer caso
+
+¿La discusión sobre presencia/distanciamiento es ficticia, según la experiencia de la pandemia, lleva a algo?
+
+¿Por qué un control de videojuegos y no un controlador midi? 
+
+Código y ejecución como acción 
+
+Consecuencia no buscada: las implicaciones pedagógicas de estos procesos 
+
+\section*{Referencias} 
+
+\end{document}
