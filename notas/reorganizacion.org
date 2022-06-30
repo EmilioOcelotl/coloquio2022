@@ -1,0 +1,45 @@
+
+* Reorganización
+
+Reorganización a partir de lo comentado con Hugo.
+No dividir los capítulos por piezas sino por la relación sonido-imagen-técnica
+Si se pensara en analogía con la literatura la función sería de analista y escritor
+
+** Introducción, perspectiva y marco 
+
+*** Perspectiva de investigación 
+
+La reflexión no está flotante: hay mecanismos tangibles 
+Web es distancia pero también registro
+Piezas audiovisuales integradas bajo la misma estructura de programación 
+Bitácora y viaje
+
+*** Preguntas y premisas relevantes 
+
+¿Por qué en la web? ¿Por qué Javascript?
+Los límites de mi lenguaje de programación son los límites de mi mundo 
+
+** Capítulo usuario
+
+Un marco de programación delimitado 
+Muchas tecnologías y no tantas piezas
+Movimiento entre plataformas, territorios fragmentados 
+
+** Capítulo expresividad en las piezas 
+
+Vigencia e imputación valorativa 
+
+** Capítulo escritura de extensiones
+
+Escritura de código fuera de los marcos delimitados 
+Creatividad computacional y creatividad artística 
+Los límites de disposición para programar en bajo nivel
+¿Vale la pena? 
+Idea interesante: No programar necesariamente en js sino escribir el código en openFrameworks y c++ para luego portarlo al web con WASM
+Regresar a la idea de compartiva de caminos 
+
+** Capítulo documentación
+
+Integración de escrituras 
+
+** Conclusiones tentativas 

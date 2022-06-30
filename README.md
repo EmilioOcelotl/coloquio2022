@@ -8,3 +8,7 @@ XVII Coloquio de la Comunidad Estudiantil del Programa de Maestría y Doctorado 
 ## Ponencia
 
 ## Presentación
+
+## Pendientes
+
+- [ ] Actualizar bib 

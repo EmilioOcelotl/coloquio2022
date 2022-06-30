@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ponencia.aux
+The style file: ../bib/apalike-es.bst
+Database file #1: ../bib/panBib.bib
+You've used 14 entries,
+            1977 wiz_defined-function locations,
+            576 strings with 6401 characters,
+and the built_in function-call counts, 5003 in all, are:
+= -- 500
+> -- 167
+< -- 15
++ -- 53
+- -- 53
+* -- 354
+:= -- 885
+add.period$ -- 47
+call.type$ -- 14
+change.case$ -- 95
+chr.to.int$ -- 14
+cite$ -- 14
+duplicate$ -- 230
+empty$ -- 368
+format.name$ -- 73
+if$ -- 1018
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 73
+num.names$ -- 44
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 96
+quote$ -- 0
+skip$ -- 167
+stack$ -- 0
+substring$ -- 254
+swap$ -- 38
+text.length$ -- 4
+text.prefix$ -- 7
+top$ -- 0
+type$ -- 78
+warning$ -- 0
+while$ -- 38
+width$ -- 0
+write$ -- 189
